@@ -2,9 +2,9 @@
   "name": "hoodie-plugin-isbn",
   "description": "Hoodie plugin to fetch isbn data from isbndb.com",
   "dependencies": {
-    "requests": "^2.47.0"
+    "request": "^2.47.0"
     },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {},
   "main":"index.js",
   "maintainers": [
