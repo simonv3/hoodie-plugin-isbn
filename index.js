@@ -26,7 +26,6 @@ module.exports = function(hoodie, doneCallback) {
     };
 
     request(url, { 'json': true }, requestCallback);
-    
   }
 
   doneCallback();
