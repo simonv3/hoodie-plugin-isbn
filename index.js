@@ -12,7 +12,6 @@ module.exports = function(hoodie, doneCallback) {
               '/books?q=' + search.query;
 
     var requestCallback = function(error, response, body) {
-
       if (error) {
         hoodie.task.error(dbName,
                           search,
