@@ -7,11 +7,20 @@
   "version": "0.1.2",
   "scripts": {},
   "main":"index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonv3/hoodie-plugin-isbn.git"
+  },
   "maintainers": [
     {
       "name": "simonv3",
       "email": ""
     }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "isbn",
+    "hoodie"
   ],
   "directories": {}
 }
